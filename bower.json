@@ -1,0 +1,17 @@
+{
+  "name": "hiv",
+  "version": "0.0.0",
+  "homepage": "https://github.com/isakb/HiV",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "q": "~0.9.7"
+  },
+  "devDependencies": {}
+}
