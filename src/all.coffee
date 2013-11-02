@@ -1,4 +1,6 @@
 require [
   './core'
-], (hiv) ->
+  './Preloader'
+], (hiv, Preloader) ->
+  hiv.Preloader = Preloader
   hiv
