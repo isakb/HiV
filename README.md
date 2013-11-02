@@ -1,4 +1,4 @@
-# HiⅤ
+# HiⅤ [![Build Status](https://secure.travis-ci.org/isakb/HiV.png?branch=master)](http://travis-ci.org/isakb/HiV)
 
 HiⅤ is an HTML 5 Game Library, inspired by the JavaScript game engine
 [LycheeJS](https://github.com/martensms/lycheeJS). HiⅤ is trying to be [more
