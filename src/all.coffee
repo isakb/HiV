@@ -1,0 +1,4 @@
+require [
+  './core'
+], (hiv) ->
+  hiv
