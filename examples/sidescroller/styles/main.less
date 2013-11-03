@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  padding: 50px 20px 0;
+  background: #ffffff;
+  color: #444;
+  margin: 0;
+}
+.game-loaded body {
+  background-color: #abc;
+  transition: background-color 0.5s;
+}
+.game-loaded .loader {
+  display: none;
+}
+
+#game {
+  margin-left: -1000px;
+}
+.game-loaded #game {
+  margin-left: 0;
+  transition: margin 0.4s;
+  cursor: pointer;
+}

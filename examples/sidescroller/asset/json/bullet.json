@@ -1,0 +1,16 @@
+{
+  "image": null,
+  "states": {
+    "right":  0,
+    "left": 1
+  },
+  "map": {
+    "default": {
+      "width":  8,
+      "height": 8,
+      "frames": [
+        { "x": 0, "y": 0, "w": 8, "h": 8 }
+      ]
+    }
+  }
+}
