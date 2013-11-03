@@ -4,6 +4,11 @@ HiⅤ is an HTML 5 Game Library, inspired by the JavaScript game engine
 [LycheeJS](https://github.com/martensms/lycheeJS). HiⅤ is trying to be [more
 hipsterific with a narrower focus](doc/RATIONALE.md)).
 
+## Status
+
+HiⅤ is not yet ready to be used by anyone.
+
+
 ## Name
 
 The Ⅴ is the roman numeral 5, not the letter V. The name may also (in more
