@@ -17,6 +17,15 @@ Clone it, `npm install` it, `npm start` it and figure it out for yourself using
 the power of source code inspection.
 
 
+# Example game
+
+Run `npm run example` to start up a *harp* server and (re)load [the example
+game](http://localhost:9000/) in your browser once the server has started.
+
+It is convenient to develop with this server running, since the CoffeeScript,
+LESS, and Jade files are served to the browser as if they were JS, CSS, and HTML
+files.
+
 # License
 
 HiⅤ is released under the [MIT License](LICENSE.txt).
