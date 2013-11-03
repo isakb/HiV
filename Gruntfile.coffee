@@ -69,7 +69,7 @@ module.exports = (grunt) ->
     requirejs:
       compile:
         options:
-          name: "all"
+          name: "main"
           mainConfigFile: "<%= config.tmp %>/config.js"
           baseUrl: "<%= config.tmp %>/."
           optimize: "none"
