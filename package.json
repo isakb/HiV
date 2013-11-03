@@ -6,7 +6,8 @@
   "scripts": {
     "install": "bower install",
     "test": "grunt && test -f dist/hiv-full.js",
-    "start": "grunt && grunt watch"
+    "start": "grunt && grunt watch",
+    "example": "xdg-open http://localhost:9000 && harp server examples/sidescroller"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "grunt-contrib-copy": "~0.4.1",
     "grunt-contrib-requirejs": "~0.4.1",
     "grunt-contrib-watch": "~0.5.0",
+    "harp": "~0.9.4",
     "matchdep": "~0.1.1",
     "requirejs": "~2.1.9"
   },
